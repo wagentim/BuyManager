@@ -10,7 +10,7 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-    <servlet-name>rest</servlet-name>
-    <servlet-class>cn.wagentim.buymanager.servlets.Rest</servlet-class>
+    <servlet-name>customer</servlet-name>
+    <servlet-class>cn.wagentim.buymanager.servlets.CustomerServlet</servlet-class>
   </servlet>
 </web-app>
